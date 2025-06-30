@@ -1,0 +1,3 @@
+- Use drones to monitor tree health.
+- Use satellite imagery to detect illegal logging.
+- Develop mobile apps for local communities to report deforestation.
